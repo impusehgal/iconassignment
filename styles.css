@@ -51,7 +51,7 @@ h2{
 #dateline {
   color: block;
   text-align: left;
-  font-size: 30 px;
+  font-size: 30px;
   font-weight: bold;
 }
 
@@ -128,8 +128,8 @@ footer {
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 
  .image1 {
-  max-width: 600px;
-  padding: 40px;
+  max-width: 700px;
+  padding: 50px;
  }
  
  

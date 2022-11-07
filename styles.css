@@ -77,32 +77,31 @@ figure {
 #image2 {
   display:block;
   width: 100%;
-  height: 100%;
   margin: 0 auto:
 }
 
 #image3 {
   display:block;
-  max-width: 250px;
-  max-height: 250px;
+  width: 100%;
+  margin: 0 auto:
 }
 
 #image4 {
   display:block;
-  max-width: 250px;
-  max-height: 250px;
+  width: 100%;
+  margin: 0 auto:
 }
 
 #image5 {
   display:block;
-  max-width: 250px;
-  max-height: 250px;
+  width: 100%;
+  margin: 0 auto:
 }
 
 #image6 {
   display:block;
-  max-width: 250px;
-  max-height: 250px;
+  width: 100%;
+  margin: 0 auto:
 }
 
 
@@ -129,8 +128,26 @@ footer {
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 
  .image1 {
-  max-width: 700px;
+  max-width: 600px;
   padding: 40px;
+ }
+ 
+ .image2 {
+  max-width: 250px;
+  max-height: 250px;
+ }
+  .image3 {
+  max-width: 250px;
+  max-height: 250px;
+ }
+  .image4 {
+  max-width: 250px;
+  max-height: 250px;
+ }
+ 
+  .image5 {
+  max-width: 250px;
+  max-height: 250px;
  }
  
 .flex {

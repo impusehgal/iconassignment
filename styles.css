@@ -125,7 +125,7 @@ footer {
 @media(min-width: 681px) {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
-
+}
  
  .image1{
   max-width: 900px;
@@ -149,7 +149,7 @@ div{
   padding: 50px
 }
  
-}
+
 /*********************************************************************
   YOUR DESKTOP-ONLY STYLES GO HERE
 *********************************************************************/

@@ -126,6 +126,12 @@ footer {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 
+ 
+ .image1{
+  max-width: 900px;
+  padding: 30px;
+ }
+ 
 .flex {
   display:flex;
   justify-content: space-between;

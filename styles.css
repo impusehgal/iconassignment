@@ -116,6 +116,7 @@ footer {
   max-width: 500px;
   margin: auto;
   text-align: justify;
+  padding: 20px;
 }
 
 
@@ -125,11 +126,11 @@ footer {
 @media(min-width: 681px) {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
-}
+
  
  .image1{
-  max-width: 900px;
-  padding: 30px;
+  max-width: 800px;
+  padding: 40px;
  }
  
 .flex {
@@ -149,7 +150,7 @@ div{
   padding: 50px
 }
  
-
+}
 /*********************************************************************
   YOUR DESKTOP-ONLY STYLES GO HERE
 *********************************************************************/

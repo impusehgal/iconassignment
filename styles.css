@@ -116,7 +116,7 @@ footer {
   max-width: 500px;
   margin: auto;
   text-align: justify;
-  padding: 20px;
+  padding: 20px
 }
 
 
@@ -127,8 +127,7 @@ footer {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 
- 
- .image1{
+ .image1 {
   max-width: 800px;
   padding: 40px;
  }
@@ -140,16 +139,15 @@ footer {
   max-width: 1000px
 }
 
-div{
+div {
   width:auto;
   text align:inherit;
   padding: 30px
 }
-.flex>div{
+.flex>div {
   flex-basis: 50%
   padding: 50px
 }
- 
 }
 /*********************************************************************
   YOUR DESKTOP-ONLY STYLES GO HERE
